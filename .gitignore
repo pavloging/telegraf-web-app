@@ -1,0 +1,5 @@
+.DS_Store
+./bot-app/node_modules
+./react-app/node_modules
+/bot-app/node_modules
+/react-app/node_modules
